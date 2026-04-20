@@ -140,7 +140,7 @@ Perform any authenticated HTTP request to the DeepKeep API.
 
 ## Contributing
 
-Issues and pull requests are welcome at [github.com/gilarel/crewai-tools-deepkeep](https://github.com/gilarel/crewai-tools-deepkeep).
+Issues and pull requests are welcome at [github.com/Deepkeepai/crewai-tools-deepkeep](https://github.com/Deepkeepai/crewai-tools-deepkeep).
 
 ## License
 

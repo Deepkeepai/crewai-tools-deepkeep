@@ -14,7 +14,7 @@ Follow these steps to publish the package to PyPI and get it listed in the CrewA
    git init
    git add .
    git commit -m "Initial release v0.1.0"
-   git remote add origin https://github.com/gilarel/crewai-tools-deepkeep.git
+   git remote add origin https://github.com/Deepkeepai/crewai-tools-deepkeep.git
    git push -u origin main
    ```
 
@@ -68,7 +68,7 @@ Verify it's live at: https://pypi.org/project/crewai-tools-deepkeep/
    https://pypi.org/project/crewai-tools-deepkeep/
 
    ## GitHub
-   https://github.com/gilarel/crewai-tools-deepkeep
+   https://github.com/Deepkeepai/crewai-tools-deepkeep
 
    ## Description
    DeepKeep AI Firewall tools for CrewAI agents.

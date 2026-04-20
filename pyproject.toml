@@ -39,9 +39,9 @@ dev = [
 
 [project.urls]
 Homepage    = "https://deepkeep.ai"
-Repository  = "https://github.com/gilarel/crewai-tools-deepkeep"
-Documentation = "https://github.com/gilarel/crewai-tools-deepkeep#readme"
-Issues      = "https://github.com/gilarel/crewai-tools-deepkeep/issues"
+Repository  = "https://github.com/Deepkeepai/crewai-tools-deepkeep"
+Documentation = "https://github.com/Deepkeepai/crewai-tools-deepkeep#readme"
+Issues      = "https://github.com/Deepkeepai/crewai-tools-deepkeep/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/crewai_tools_deepkeep"]
