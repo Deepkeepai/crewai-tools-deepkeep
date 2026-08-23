@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "crewai-tools-deepkeep"
-version = "0.1.0"
+version = "0.1.1"
 description = "DeepKeep AI Firewall guardrails and hooks for CrewAI"
 readme = "README.md"
 requires-python = ">=3.10"
