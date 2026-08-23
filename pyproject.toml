@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "crewai-deepkeep"
+name = "crewai-tools-deepkeep"
 version = "0.1.0"
 description = "DeepKeep AI Firewall guardrails and hooks for CrewAI"
 readme = "README.md"
@@ -19,7 +19,7 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://deepkeep.ai"
-Repository = "https://github.com/Deepkeepai/crewai-deepkeep"
+Repository = "https://github.com/Deepkeepai/crewai-tools-deepkeep"
 
 [project.optional-dependencies]
 dev = [

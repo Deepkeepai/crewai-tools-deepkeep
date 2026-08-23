@@ -1,4 +1,4 @@
-# crewai-deepkeep
+# crewai-tools-deepkeep
 
 DeepKeep AI Firewall integration for CrewAI native guardrails and execution hooks.
 
@@ -11,7 +11,7 @@ This package is designed as an external CrewAI integration, not a patch to `crew
 ## Installation
 
 ```bash
-pip install crewai-deepkeep
+pip install crewai-tools-deepkeep
 ```
 
 Set credentials:
@@ -122,5 +122,5 @@ DeepKeep integrates with CrewAI's native task guardrails and execution hooks. It
 Recommended upstream repository:
 
 ```text
-https://github.com/Deepkeepai/crewai-deepkeep
+https://github.com/Deepkeepai/crewai-tools-deepkeep
 ```

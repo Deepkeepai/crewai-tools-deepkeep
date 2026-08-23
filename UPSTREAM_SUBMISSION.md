@@ -3,13 +3,13 @@
 Recommended repository:
 
 ```text
-Deepkeepai/crewai-deepkeep
+Deepkeepai/crewai-tools-deepkeep
 ```
 
 Recommended PyPI package:
 
 ```text
-crewai-deepkeep
+crewai-tools-deepkeep
 ```
 
 ## Positioning
@@ -54,8 +54,8 @@ Enforce DeepKeep AI Firewall checks in CrewAI using native task guardrails and r
 
 ## PR Checklist
 
-- Publish `crewai-deepkeep` to PyPI first.
-- Make the repository public under `Deepkeepai/crewai-deepkeep`.
+- Publish `crewai-tools-deepkeep` to PyPI first.
+- Make the repository public under `Deepkeepai/crewai-tools-deepkeep`.
 - Include task guardrail and hook examples in the README.
 - Include mocked unit tests for decision parsing and guardrail behavior.
 - Keep the CrewAI docs PR documentation-only.
