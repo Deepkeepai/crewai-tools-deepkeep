@@ -1,5 +1,11 @@
 # crewai-tools-deepkeep
 
+> **Development moved:** This integration is maintained in the
+> [DeepKeep integrations monorepo](https://github.com/Deepkeepai/deepkeep-integrations/tree/main/integrations/crewai).
+> Please open new [issues](https://github.com/Deepkeepai/deepkeep-integrations/issues) and pull requests in the monorepo.
+> Historical source and existing links remain available here.
+> The PyPI package name remains `crewai-tools-deepkeep`.
+
 DeepKeep AI Firewall integration for CrewAI native guardrails and execution hooks.
 
 This package is designed as an external CrewAI integration, not a patch to `crewai_tools`. It follows CrewAI's native extension points:
@@ -119,8 +125,8 @@ DeepKeep integrates with CrewAI's native task guardrails and execution hooks. It
 
 ## Repository Placement
 
-Recommended upstream repository:
+Current integration directory:
 
 ```text
-https://github.com/Deepkeepai/crewai-tools-deepkeep
+https://github.com/Deepkeepai/deepkeep-integrations/tree/main/integrations/crewai
 ```
